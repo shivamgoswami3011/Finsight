@@ -1,4 +1,0 @@
-google-generativeai
-PyMuPDF
-Django
-gunicorn
